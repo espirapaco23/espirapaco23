@@ -6,7 +6,7 @@
 💡 &nbsp; Здесь я выкладываю проекты,\
 🎓 &nbsp; На текущий момент я практикуюсь и учусь.\
 📄 &nbsp; Также я выкладываю приложения сюда: [NETLIFY](https://app.netlify.com/teams/trusovdfg23/sites)
-- ⚡ &nbsp; この世界には 人の運命をつかさどる 何らかの超越的な 「律」 神の手が存在するのだろうか 少なくとも 人は自らの意志さえ 自由には出来ない .\
+⚡ &nbsp; この世界には 人の運命をつかさどる 何らかの超越的な 「律」 神の手が存在するのだろうか 少なくとも 人は自らの意志さえ 自由には出来ない
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
