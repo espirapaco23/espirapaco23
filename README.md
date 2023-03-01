@@ -1,5 +1,11 @@
 <h2 align="center" >Привет и добро пожаловать на страницу!</h2>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/espirapaco23/count.svg" />
+</p>
+
+
 ### 👨🏻‍💻 &nbsp;Немного обо мне:
 
 📄 &nbsp; Меня зовут Игорь, я из Санкт-Петербурга.\
