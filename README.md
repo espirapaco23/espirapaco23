@@ -28,7 +28,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
-### ⚙️ &nbsp;GitHub Analytics🇸🇸
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/espirapaco23">
@@ -37,4 +37,4 @@
 </a>
 </p>
 
-🇩🇪
+
