@@ -1,9 +1,9 @@
 <h2 align="center" >Привет и добро пожаловать на страницу!</h2>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/espirapaco23/count.svg" />
-</p>
+</p> -->
 
 
 ### 👨🏻‍💻 &nbsp;Немного обо мне:
