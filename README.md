@@ -5,6 +5,8 @@
   <img src="https://github.com/espirapaco23/espirapaco23/blob/main/oR1BJOk2OMQ.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+<hr>
+
 
 
 <!-- <p align="center"> 
