@@ -1,19 +1,8 @@
-<!-- <h2 align="center" >Привет</h2> -->
-
-
 <p align="center">
   <img src="https://github.com/espirapaco23/espirapaco23/blob/main/oR1BJOk2OMQ.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <hr>
-
-
-
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/espirapaco23/count.svg" />
-</p> -->
-
 
 ### 👨🏻‍💻 &nbsp; Обо мне:
 
@@ -27,9 +16,6 @@
 <hr>
 
 ### 🛠 &nbsp;Tech Stack
-
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -45,12 +31,17 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/espirapaco23">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espirapaco23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=espirapaco23&layout=compact&langs_count=8&theme=algoliaa"/>
 </a>
 </p>
+
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/espirapaco23/count.svg" />
+</p> -->
 
 
