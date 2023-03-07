@@ -1,4 +1,4 @@
-<h2 align="center" >Привет и добро пожаловать на страницу!</h2>
+<h2 align="center" >Привет</h2>
 
 
 <p align="center">
