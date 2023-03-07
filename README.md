@@ -21,9 +21,14 @@
 💡 &nbsp; Здесь я выкладываю проекты.\
 📄 &nbsp; Также я выкладываю приложения сюда: [NETLIFY](https://app.netlify.com/teams/trusovdfg23/sites) .\
 ⚡ &nbsp; この世界には 人の運命をつかさどる 何らかの超越的な 「律」 神の手が存在するのだろうか 少なくとも 人は自らの意志さえ 自由には出来ない
-### 🛠 &nbsp;Tech Stack
 
 ![Profile views](https://gpvc.arturio.dev/espirapaco23)  <img src="https://img.shields.io/github/followers/espirapaco23?label=Follow" style=" float:left, margin-right:10px" />
+
+<hr>
+
+### 🛠 &nbsp;Tech Stack
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
