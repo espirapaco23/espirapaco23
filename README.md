@@ -39,9 +39,6 @@
 </p>
 
 
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/espirapaco23/count.svg" />
-</p> -->
+
 
 
